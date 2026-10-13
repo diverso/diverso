@@ -1,16 +1,13 @@
-## Hi there 👋
+# Tancredi Leone
 
-<!--
-**diverso/diverso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of [DesignDiverso](https://www.designdiverso.com). I design and build software that makes complex operations easier to run.
 
-Here are some ideas to get you started:
+My work connects UX research, product design, and custom development across manufacturing, construction materials, logistics, and healthcare operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Current focus**
+
+- Operational visibility and exception management
+- Dynamic scheduling and workflow automation
+- Usable ERP/CRM integrations and privacy-first systems
+
+[DesignDiverso](https://www.designdiverso.com) · [LinkedIn](https://www.linkedin.com/in/tancredileone/)
